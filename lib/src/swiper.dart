@@ -550,7 +550,7 @@ class _SwiperState extends _SwiperTimerMixin {
         onIndexChanged: _onIndexChanged,
         controller: _controller,
         scrollDirection: widget.scrollDirection,
-      )
+      );
     } else if (widget.layout == SwiperLayout.CUSTOM) {
       return new _CustomLayoutSwiper(
         loop: widget.loop,
