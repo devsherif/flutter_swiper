@@ -3,20 +3,33 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="Adding Turn basic implementaiton as Tinder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/swiper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/custom_layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/custom_layout.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,45 +42,6 @@
         <option value="Dart File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>scale</find>
-      <find>_page</find>
-      <find>_indexToPositionPage</find>
-      <find>_SubSwiper</find>
-      <find>onPageChanged</find>
-      <find>_activeIndex</find>
-      <find>autoplayDisableOnInteraction</find>
-      <find>_buildSwiper</find>
-      <find>N</find>
-      <find>startAuto</find>
-      <find>onChangeNotifier</find>
-      <find>controller</find>
-      <find>autoplayDiableOnInteraction</find>
-      <find>trueautoplayDiableOnInteraction</find>
-      <find>RouteObserver</find>
-      <find>PageController</find>
-      <find>new SwiperPluginConfig</find>
-      <find>_controller</find>
-      <find>dispose</find>
-      <find>reverseRendering</find>
-      <find>pageIndicator</find>
-      <find>PageIndicator</find>
-      <find>Transform</find>
-      <find>onTap</find>
-      <find>print</find>
-      <find>example01</find>
-      <find>_pageController</find>
-      <find>zero</find>
-      <find>0</find>
-      <find>SwiperPluginConfig</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>pagination</replace>
-      <replace>a</replace>
-      <replace>s</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -178,6 +152,21 @@
       <option name="presentableId" value="Default" />
       <updated>1526739255792</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding Turn basic implementaiton as Tinder">
+      <created>1621418018115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621418018115</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding Turn basic implementaiton as Tinder">
+      <created>1621418081659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621418081659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -220,6 +209,31 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Turn basic implementaiton as Tinder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Turn basic implementaiton as Tinder" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="349" key="Vcs.Push.Dialog.v2" timestamp="1621418084270">
+      <screen x="0" y="25" width="1920" height="1175" />
+    </state>
+    <state x="560" y="349" key="Vcs.Push.Dialog.v2/0.25.1920.1175@0.25.1920.1175" timestamp="1621418084270" />
+    <state x="661" y="367" width="597" height="490" key="find.popup" timestamp="1621418292216">
+      <screen x="0" y="25" width="1920" height="1175" />
+    </state>
+    <state x="661" y="367" width="597" height="490" key="find.popup/0.25.1920.1175@0.25.1920.1175" timestamp="1621418292216" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
